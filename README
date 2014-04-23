@@ -1,0 +1,1 @@
+This is a simple Python script that takes advantage of the fact that Excel 2007+ files are really just zipped archives. If will change the connection string server/Data Source for any connections in your Excel file. Try "python xlConStrChanger.py -h" for usage.
